@@ -1,0 +1,19 @@
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/GoogleVR/
+*.pidb.meta
+*.pdb.meta
+
+# ==== MonoDevelop files
+**/*.userprefs
+**/*.csproj
+**/*.unityproj
+**/*.sln
+
+# ==== OSX files
+**/.DS_Store
+.DS_Store*
+._*
+.Trashed
+notes/
